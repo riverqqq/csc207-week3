@@ -18,7 +18,8 @@
   
 4) A screenshot of using a tool to try out the API (like https://www.postman.com/, or https://hoppscotch.io/)
 
-  <img width="1680" alt="Screen Shot 2023-09-29 at 10 58 38 AM" src="https://github.com/alexnguyen02/csc207-week3/assets/144384708/0c198748-4ca8-45ac-a4c6-abb204d8d6f5">
+  <img width="1680" alt="Screen Shot 2023-09-29 at 1 36 21 PM" src="https://github.com/alexnguyen02/csc207-week3/assets/144384708/92cd0f5d-5a94-4ea1-b7ba-048b7847779b">
+
   
 5) An example output of running your Java code (see below).
 
