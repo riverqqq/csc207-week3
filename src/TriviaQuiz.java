@@ -5,7 +5,7 @@ import org.json.JSONObject;
 import java.io.IOException;
 
 public class TriviaQuiz {
-    private final static String API_URL = "https://opentdb.com/api.php?amount=5";
+    private final static String API_URL = "https://opentdb.com/api.php?amount=5&token=" + System.getenv("YOURTOKENHERE");
 
 
     public static void main(String[] args) {
